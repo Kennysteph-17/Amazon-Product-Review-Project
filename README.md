@@ -20,3 +20,17 @@ The analysis answers the following key business questions:
 
 ## Results Summary
 The complete analysis results with pivot table and chart visuals (Q1 to Q14) are available in the results.md file.
+
+## Tools & Techniques Used
+Power Query: Data transformation (split, clean, unpivot, zip, expand, join)
+Excel Pivot Tables: Aggregations, distinct counts, averages, sums
+Excel Pivot Charts: Column, Pie, Bar and Scatter plots
+Calculated Columns: Used for bucket creation, combined scores and conditional flags
+
+## Acknowledgements
+Special thanks to:
+Digital Skills Africa – for providing the upskilling opportunity and curriculum.
+Incubator Hub – for guidance, mentorship, and technical support throughout the project.
+Author
+STEPHEN KEHINDE MOSES
+Email: kennysteph2012@gmail.com
