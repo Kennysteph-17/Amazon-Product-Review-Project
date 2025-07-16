@@ -27,6 +27,24 @@ Excel Pivot Tables: Aggregations, distinct counts, averages, sums
 Excel Pivot Charts: Column, Pie, Bar and Scatter plots
 Calculated Columns: Used for bucket creation, combined scores and conditional flags
 
+# Structured Query Language (SQL)
+SQL was used in exploring Kultra Mega Store (KMS) in this project. SQL means structure Query language for accessing, managing and modifying data in a relational dtatabase.
+
+SQL Tool was used to answer the following questions after I had successfully imported my data into a database i created which was Kultra Mega Store .
+
+1. Retrieve the total sales for each product category.
+2. Find the number of sales transactions in each region.
+3. Find the highest-selling product by total sales value.
+4. Calculate total revenue per product.
+5. Calculate monthly sales totals for the current year.
+6. Find the top 5 customers by total purchase amount.
+7. Calculate the percentage of total sales contributed by each region.
+8. Identify products with no sales in the last quarter.
+
+
+select *from[dbo].[SalesData]
+
+
 ## Acknowledgements
 Special thanks to:
 Digital Skills Africa – for providing the upskilling opportunity and curriculum.
